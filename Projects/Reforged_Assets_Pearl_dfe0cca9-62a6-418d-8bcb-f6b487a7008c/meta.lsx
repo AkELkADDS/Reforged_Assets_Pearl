@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="dfe0cca9-62a6-418d-8bcb-f6b487a7008c"/>
+            <attribute id="Name" type="LSString" value="Reforged_Assets_Pearl"/>
+            <attribute id="UUID" type="LSString" value="7f839a4e-c07a-b2d2-5f9e-37cca293f2ae"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

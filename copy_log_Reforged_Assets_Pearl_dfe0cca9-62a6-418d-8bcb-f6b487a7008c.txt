@@ -1,0 +1,364 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+   Mon 05/19/2025  7:33:56.54 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\48a5d2ea-455a-4194-aac6-c7e2d0289804.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\4cbc3967-7f14-bcae-59cf-cb6a0ce9063c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\6142b144-59a4-8842-b9fb-f0df53c2d468.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\8cae1971-2071-43d9-8c98-5c0900529f22.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\daa13968-d241-4c2e-b0f0-90db0c6b5ff4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\eb34e43b-2f49-4747-9e08-ee3c3319e263.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 15 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 4 
+ 
+[LOG] Total files found across all folders: 26 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c to Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using destination: Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:34:00 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\meta.lsx100%  
+	    New File  		   4.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\thumbnail.png 20%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    4.85 m    4.85 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2543382500 Bytes/sec.
+   Speed :           145533.514 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:34:00 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c to "Editor\Mods"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using destination: Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:34:01 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   24541	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.9 k    23.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:34:01 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c to Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using destination: Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:34:03 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7841	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\meta.lsx100%  
+	    New File  		   4.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\GUI\metadata.lsf100%  
+	    New File  		    2098	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    4.86 m    4.86 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1699048666 Bytes/sec.
+   Speed :            97220.344 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:34:03 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c to Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using destination: Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:34:05 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   17880	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\48a5d2ea-455a-4194-aac6-c7e2d0289804.lsf100%  
+	    New File  		    2863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\4cbc3967-7f14-bcae-59cf-cb6a0ce9063c.lsf100%  
+	    New File  		    2863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\6142b144-59a4-8842-b9fb-f0df53c2d468.lsf100%  
+	    New File  		    2862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\8cae1971-2071-43d9-8c98-5c0900529f22.lsf100%  
+	    New File  		    2862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\daa13968-d241-4c2e-b0f0-90db0c6b5ff4.lsf100%  
+	    New File  		    2633	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\eb34e43b-2f49-4747-9e08-ee3c3319e263.lsf100%  
+	    New File  		   93392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.GR2100%  
+	    New File  		     218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.xml100%  
+	    New File  		  618560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.GR2100%  
+	    New File  		     223	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.xml100%  
+	    New File  		  618560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.GR2100%  
+	    New File  		     223	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.xml100%  
+	    New File  		  420420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        12        12         1         0         0         0
+   Files :        15        15         0         0         0         0
+   Bytes :    1.70 m    1.70 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            57627870 Bytes/sec.
+   Speed :            3297.493 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:34:05 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 15 
+[DEBUG] Successfully copied files: 15 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 
+      Total files: 15 
+      Copied successfully: 15 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c to "Generated\Public"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[DEBUG] Using destination: Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:34:06 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+     Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   93392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.GR2100%  
+	    New File  		  616596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.GR2100%  
+	    New File  		  616596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.GR2100%  
+	    New File  		  420420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         9         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    1.66 m    1.66 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           158818545 Bytes/sec.
+   Speed :            9087.670 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:34:06 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 15 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 26 
+[SUMMARY] Total files successfully copied: 52 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
