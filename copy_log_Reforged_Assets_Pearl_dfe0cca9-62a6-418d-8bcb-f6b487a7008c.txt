@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c 
-   Tue 04/14/2026 13:55:25.00 
+   Tue 04/14/2026 13:58:15.55 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -74,7 +74,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:55:28 PM
+  Started : Tuesday, April 14, 2026 1:58:18 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
      Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
 
@@ -85,7 +85,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\meta.lsx100%  
-	    New File  		   4.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\thumbnail.png 20%  100%  
+	    New File  		   4.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\thumbnail.png 10%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -96,9 +96,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           5086765000 Bytes/sec.
-   Speed :           291067.028 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:55:28 PM
+   Speed :           2543382500 Bytes/sec.
+   Speed :           145533.514 MegaBytes/min.
+   Ended : Tuesday, April 14, 2026 1:58:18 PM
 
  
 [DEBUG] Counting source files 
@@ -124,7 +124,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:55:30 PM
+  Started : Tuesday, April 14, 2026 1:58:20 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
      Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Editor\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
 
@@ -143,7 +143,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    23.9 k    23.9 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, April 14, 2026 1:55:30 PM
+   Ended : Tuesday, April 14, 2026 1:58:20 PM
 
  
 [DEBUG] Counting source files 
@@ -169,7 +169,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:55:32 PM
+  Started : Tuesday, April 14, 2026 1:58:22 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
      Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
 
@@ -180,7 +180,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    7842	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\meta.lsx100%  
-	    New File  		   4.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\mod_publish_logo.png  0%  100%  
+	    New File  		   4.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\GUI\metadata.lsf100%  
 	    New File  		    2098	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Localization\English\english.xml100%  
 
@@ -195,7 +195,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           5097147000 Bytes/sec.
    Speed :           291661.090 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:55:32 PM
+   Ended : Tuesday, April 14, 2026 1:58:22 PM
 
  
 [DEBUG] Counting source files 
@@ -221,7 +221,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:55:33 PM
+  Started : Tuesday, April 14, 2026 1:58:24 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
      Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
 
@@ -238,10 +238,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\8cae1971-2071-43d9-8c98-5c0900529f22.lsf100%  
 	    New File  		    2862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\daa13968-d241-4c2e-b0f0-90db0c6b5ff4.lsf100%  
 	    New File  		    2633	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Content\[PAK]_Reforged_Assets_Pearl\eb34e43b-2f49-4747-9e08-ee3c3319e263.lsf100%  
+	    New File  		     218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.xml100%  
 	    New File  		     223	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.xml100%  
 	    New File  		     223	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.xml100%  
 	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.xml100%  
-	    New File  		     218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -252,9 +252,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :             8883000 Bytes/sec.
-   Speed :             508.289 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:55:33 PM
+   Speed :            11844000 Bytes/sec.
+   Speed :             677.719 MegaBytes/min.
+   Ended : Tuesday, April 14, 2026 1:58:24 PM
 
  
 [DEBUG] Counting source files 
@@ -280,7 +280,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:55:35 PM
+  Started : Tuesday, April 14, 2026 1:58:25 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
      Dest : C:\GIT_BG3\MOD_REPOS\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\Generated\Public\Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c\
 
@@ -306,7 +306,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           582334666 Bytes/sec.
    Speed :           33321.456 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:55:35 PM
+   Ended : Tuesday, April 14, 2026 1:58:25 PM
 
  
 [DEBUG] Counting source files 
